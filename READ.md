@@ -1,7 +1,7 @@
 
 # DIO | Resumos Git e GitHub
 
-Repositório para armazenar resumos sobre Git e GitHub da [DIO](https://www.dio.me)
+Repositório para armazenar resumo sobre Git e GitHub da [DIO](https://www.dio.me)
 
 ## 📕 Documentaçao
 
